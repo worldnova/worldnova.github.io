@@ -1,0 +1,16 @@
+.main{
+    width:850px;
+    height:850px;
+    background-color: black;
+}
+.header{
+    color: aqua;
+    background-color: red;
+    }
+.menu{
+    border: 5px purple dotted;
+    background-color: cyan;
+    height: 700px;
+    width: 200px
+    
+}
