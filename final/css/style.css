@@ -1,0 +1,45 @@
+.i{
+  margin: 15px;
+  align-items: flex-start;  
+}
+.jumbotron{
+    background-color: darkgrey;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1px;
+}
+.text2{
+    margin:15px;
+}
+.cont1{
+    margin: 15px;
+}
+.nav li {
+    display: inline-block;
+    color: white;
+    font-size: 23px;
+    padding: 5px;
+    font: Times New Roman;
+    text-decoration: none;
+}
+
+li a {
+    display: block;
+    padding: 13px;
+    color: blue;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: blue;
+    color:white;
+    text-decoration: none;
+}
+.main{
+    margin-top: 5px;
+}
+.d{
+    background-color: white;
+}
+.l1{
+}
